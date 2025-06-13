@@ -1,7 +1,9 @@
 [
-    { "value": "500k", "percentage": 70, "color": "#a9d6e5" },
-    { "value": "1m", "percentage": 60, "color": "#89c2d9" },
-    { "value": "2m", "percentage": 50, "color": "#61a5c2" },
-    { "value": "3m", "percentage": 40, "color": "#468faf" },
-    { "value": "5m", "percentage": 30, "color": "#2c7da0" }
+    { "value": "50M", "percentage": 70, "color": "#2E003E" },
+    { "value": "100M", "percentage": 50, "color": "#4B0082" },
+    { "value": "200M", "percentage": 40, "color": "#6A0DAD" },
+    { "value": "500M", "percentage": 0, "color": "#8000FF" },
+    { "value": "1B", "percentage": 0, "color": "#A259FF" },
+    { "value": "Nitro Classic", "percentage": 0, "color": "#CDA4FF" },
+    { "value": "Nitro Gaming", "percentage": 0, "color": "#F3E5FF" }
 ]
